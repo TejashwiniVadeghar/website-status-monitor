@@ -207,3 +207,5 @@ Timestamp,URL,Status,ResponseTime
 2026-11-21 06:38:57,https://google.com,✅ Up,0.13
 2026-11-22 06:07:32,https://github.com,✅ Up,0.15
 2026-11-22 06:07:32,https://google.com,✅ Up,0.22
+2026-11-23 06:59:33,https://github.com,✅ Up,0.09
+2026-11-23 06:59:33,https://google.com,⚠️ Down (429),0.57
